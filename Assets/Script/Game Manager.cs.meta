@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: a51b00f7074fb164ba9f4a5277b9cbc7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - stonePrefab: {fileID: 2435084664607868908, guid: e10655b2b54a4c848a7c9b5a14b222a3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
